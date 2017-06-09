@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 //nicholas.bourdakos@ibm.com
-//
+//npm start - to run the server 
 'use strict';
 
 var express = require('express'); // app server
